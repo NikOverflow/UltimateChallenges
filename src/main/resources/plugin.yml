@@ -1,0 +1,5 @@
+name: "UltimateChallenges"
+description: "A paper plugin that adds challenges."
+version: "${plugin_version}"
+
+main: "com.nikoverflow.ultimateChallenges.UltimateChallenges"
